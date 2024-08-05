@@ -1,5 +1,5 @@
 
-const backendDomain = "http://localhost:8080"
+const backendDomain = "https://user-auth-backend-theta.vercel.app"
 
 const SummaryApi = {
     signUp: {
