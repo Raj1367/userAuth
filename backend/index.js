@@ -9,7 +9,7 @@ const PORT = 8080 || process.env.PORT
 require('dotenv').config()
 
 app.use(cors({
-    origin: process.env.FRONTEND_URL,
+    origin: "https://user-auth-frontend-drab.vercel.app/"
     credentials: true
 }))
 
