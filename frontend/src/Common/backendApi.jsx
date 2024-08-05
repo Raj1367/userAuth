@@ -1,5 +1,5 @@
 
-const backendDomain = "https://user-auth-backend-theta.vercel.app"
+const backendDomain = "https://user-auth-backend-ten.vercel.app/"
 
 const SummaryApi = {
     signUp: {
