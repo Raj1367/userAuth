@@ -18,6 +18,9 @@
                 "PATCH",
                 "OPTIONS"
             ],
+            "headers": {
+                "Access-Control-Allow-Origin": "https://user-auth-frontend-drab.vercel.app"
+            }
         }
     ]
 }
